@@ -1,0 +1,7 @@
+*.class
+*.ear
+*.war
+*.jar
+**/target/
+**/maven/
+**/META-INF/MANIFEST.MF
